@@ -3,6 +3,7 @@
 const Node = require("./Node");
 
 class Graph {
+	
 	constructor(nodes) {
 		this.nodes = nodes || [];
 	}
